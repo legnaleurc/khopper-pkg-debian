@@ -1,3 +1,15 @@
+khopper (0.2.2-1) unstable; urgency=low
+
+  [ Wei-Cheng Pan ]
+  * Imported Upstream version 0.2.2
+  * Change install helper script.
+  * Bump dependency version.
+  * Change library things.
+  * Fix wrong dependency version.
+  * Delete wrong files.
+
+ -- Wei-Cheng Pan <legnaleurc@gmail.com>  Mon, 02 Nov 2009 13:35:44 +0000
+
 khopper (0.2.1-1) unstable; urgency=low
 
   * New upstream release
